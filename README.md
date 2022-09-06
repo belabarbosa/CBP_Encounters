@@ -23,9 +23,12 @@ These are the questions that I was aiming to answer with this analysis.
 
 ![image](https://user-images.githubusercontent.com/100521949/186752288-729edd0e-201f-47d3-a502-2141665a6fad.png)
 
-![image](https://user-images.githubusercontent.com/100521949/186750052-ad48f971-e450-4a93-ad46-85ccb6320c2d.png)
-![image](https://user-images.githubusercontent.com/100521949/186750161-cffbe6c5-5951-4e91-85f3-b2b8584b789f.png)
-![image](https://user-images.githubusercontent.com/100521949/186750206-8d04c458-9a98-4caf-9c83-a8bec3a98ead.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/100521949/188688217-c93fb4c5-c20a-4c95-9875-233c192397dd.png)
+
 
 
 ## Next steps
