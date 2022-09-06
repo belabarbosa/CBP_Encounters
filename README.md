@@ -24,6 +24,10 @@ These are the questions that I was aiming to answer with this analysis.
 ![image](https://user-images.githubusercontent.com/100521949/186752288-729edd0e-201f-47d3-a502-2141665a6fad.png)
 
 
+![image](https://user-images.githubusercontent.com/100521949/188698254-1ddedd77-d587-48cc-b31c-b34affce64f6.png)
+
+
+
 
 
 
